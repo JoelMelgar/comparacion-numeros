@@ -1,0 +1,2 @@
+El numero mas grande es: 7.0 y Los numeros concatenados son: 527
+Hay dos numeros repetidos y el que no se repite es: 2.0
